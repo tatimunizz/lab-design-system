@@ -29,3 +29,5 @@ Tools used in this project:
 - [Radix UI](https://www.radix-ui.com)
 - [CLSX](https://github.com/lukeed/clsx)
 - [Phosphor Icons](https://github.com/phosphor-icons/phosphor-react)
+
+This project was made during [Rocketseat Lab](https://www.rocketseat.com.br) hosted by [Diego Fernandes](https://github.com/diego3g)
